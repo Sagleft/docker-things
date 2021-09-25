@@ -1,0 +1,1 @@
+docker-compose exec mariadb mysql -pmariadb -u root
